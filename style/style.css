@@ -1,0 +1,13 @@
+
+#introduction{
+    background: linear-gradient(rgba(100,181,246,1), rgba(0,0,0,0.8)),
+        url('C://Users/79198/Desktop/lab8/img/background.jpg') 0% 0%/cover
+}
+
+.fill-viewport{
+    min-height: 100vh
+}
+
+.text-white-70{
+    color:rgba(255,255,255,0.7)
+}
